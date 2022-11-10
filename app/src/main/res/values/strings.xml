@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">http://animals</string>
+    <string name="app_desc">Animals for every \nHyperText Transfer Protocol\nresponse status code.</string>
+</resources>
